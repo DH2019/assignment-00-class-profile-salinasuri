@@ -1,0 +1,14 @@
+{
+  "firstName": "Salina",
+  "lastName": "Suri",
+  "nickName": "Salina",
+  "privateName": false,
+  "picture": "images/salinasuri.jpg",
+  "privatePicture": false,
+  "email": "salina.suri@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "salinasuri",
+  "privateGithub": false,
+  "superpower" : "solo portaging",
+  "academicinterests": "World War II; history of science and technology; engaged learning"
+}
